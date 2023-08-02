@@ -1,0 +1,32 @@
+nav.navbar {
+    background-color: #323150 !important;
+    color: white !important;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+    color: white !important;
+}
+
+.header {
+    background-color: #323150;
+    color: white;
+    padding: 50px;
+}
+
+main {
+    background-color: #f0eff5;
+}
+
+.card-service {
+    height: 200px;
+}
+
+.card-service .card-iu {
+    background-image: url(https://img.freepik.com/free-vector/flat-design-ui-ux-background_23-2149093996.jpg?w=1380&t=st=1690934750~exp=1690935350~hmac=89c008a…);
+    background-size: cover;
+}
